@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Learning React using Typescript
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -44,3 +44,6 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+Thanks to web dev simplified for the awesome [simple calcuator tutorial](https://www.youtube.com/watch?v=DgRrrOt0Vr8&ab_channel=WebDevSimplified)
+
